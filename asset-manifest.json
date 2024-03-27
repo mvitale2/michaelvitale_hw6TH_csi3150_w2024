@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/michaelvitale_hw6TH_csi3150_w2024/static/css/main.2bdb3efe.css",
+    "main.js": "/michaelvitale_hw6TH_csi3150_w2024/static/js/main.d4074bac.js",
+    "static/media/TokyoImage1.jpg": "/michaelvitale_hw6TH_csi3150_w2024/static/media/TokyoImage1.b77bb781a0fd3b8f0ab8.jpg",
+    "static/media/BAImage2.jpg": "/michaelvitale_hw6TH_csi3150_w2024/static/media/BAImage2.2c805cebca9d76c47a04.jpg",
+    "static/media/PamplonaImage1.jpg": "/michaelvitale_hw6TH_csi3150_w2024/static/media/PamplonaImage1.b6363d408167488f9e68.jpg",
+    "static/media/BAImage3.jpg": "/michaelvitale_hw6TH_csi3150_w2024/static/media/BAImage3.9c2930fa618931a15ed5.jpg",
+    "static/media/PamplonaImage3.jpg": "/michaelvitale_hw6TH_csi3150_w2024/static/media/PamplonaImage3.458db25fa2009b7128c8.jpg",
+    "static/media/TokyoImage2.jpg": "/michaelvitale_hw6TH_csi3150_w2024/static/media/TokyoImage2.efb57304a6e499b19222.jpg",
+    "static/media/LondonImage2.jpg": "/michaelvitale_hw6TH_csi3150_w2024/static/media/LondonImage2.0276591d79ccba34b62d.jpg",
+    "static/media/SFImage3.jpg": "/michaelvitale_hw6TH_csi3150_w2024/static/media/SFImage3.35444fe9c7b78ddeae19.jpg",
+    "static/media/BAImage1.jpg": "/michaelvitale_hw6TH_csi3150_w2024/static/media/BAImage1.7d561e5ae3ce27d11b20.jpg",
+    "static/media/LondonImage1.jpg": "/michaelvitale_hw6TH_csi3150_w2024/static/media/LondonImage1.310f7f5e513b696a4072.jpg",
+    "static/media/PamplonaImage2.jpg": "/michaelvitale_hw6TH_csi3150_w2024/static/media/PamplonaImage2.0be5f4434aed2fce4e39.jpg",
+    "static/media/SFImage2.jpg": "/michaelvitale_hw6TH_csi3150_w2024/static/media/SFImage2.5f1a59398102bdef88cd.jpg",
+    "static/media/SFImage1.jpg": "/michaelvitale_hw6TH_csi3150_w2024/static/media/SFImage1.efed5b95541e5b12c176.jpg",
+    "static/media/HeroSection-bg-image.jpg": "/michaelvitale_hw6TH_csi3150_w2024/static/media/HeroSection-bg-image.e25beac9cbf4f163ed7d.jpg",
+    "static/media/LondonImage3.jpg": "/michaelvitale_hw6TH_csi3150_w2024/static/media/LondonImage3.0c0967d6eabc4e6caece.jpg",
+    "static/media/TokyoImage3.jpg": "/michaelvitale_hw6TH_csi3150_w2024/static/media/TokyoImage3.6b1c397cf0430242c296.jpg",
+    "index.html": "/michaelvitale_hw6TH_csi3150_w2024/index.html",
+    "main.2bdb3efe.css.map": "/michaelvitale_hw6TH_csi3150_w2024/static/css/main.2bdb3efe.css.map",
+    "main.d4074bac.js.map": "/michaelvitale_hw6TH_csi3150_w2024/static/js/main.d4074bac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bdb3efe.css",
+    "static/js/main.d4074bac.js"
+  ]
+}

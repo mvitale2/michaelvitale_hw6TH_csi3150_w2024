@@ -3,15 +3,22 @@
 // import Place1Image1 from "./Assets/filename.extension" and similarly for the rest.
 // You can use the images that I have provided or use your own
 // I have provided a lorem ipsum content for description. Just use that. No need to spend time figuring out a description.
-import Place1Image1 from "./Assets/TokyoImage1.jpg";
-import Place1Image2 from "./Assets/TokyoImage2.jpg";
-import Place1Image3 from "./Assets/TokyoImage3.jpg";
-import Place2Image1 from "./Assets/LondonImage1.jpg";
-import Place2Image2 from "./Assets/LondonImage2.jpg";
-import Place2Image3 from "./Assets/LondonImage3.jpg";
-import Place3Image1 from "./Assets/SFImage1.jpg";
-import Place3Image2 from "./Assets/SFImage2.jpg";
-import Place3Image3 from "./Assets/SFImage3.jpg";
+import Place1Image1 from "./Assets/images/TokyoImage1.jpg";
+import Place1Image2 from "./Assets/images/TokyoImage2.jpg";
+import Place1Image3 from "./Assets/images/TokyoImage3.jpg";
+import Place2Image1 from "./Assets/images/LondonImage1.jpg";
+import Place2Image2 from "./Assets/images/LondonImage2.jpg";
+import Place2Image3 from "./Assets/images/LondonImage3.jpg";
+import Place3Image1 from "./Assets/images/SFImage1.jpg";
+import Place3Image2 from "./Assets/images/SFImage2.jpg";
+import Place3Image3 from "./Assets/images/SFImage3.jpg";
+import Place4Image1 from "./Assets/images/PamplonaImage1.jpg";
+import Place4Image2 from "./Assets/images/PamplonaImage2.jpg";
+import Place4Image3 from "./Assets/images/PamplonaImage3.jpg";
+import Place5Image1 from "./Assets/images/BAImage1.jpg";
+import Place5Image2 from "./Assets/images/BAImage2.jpg";
+import Place5Image3 from "./Assets/images/BAImage3.jpg";
+
 
 const TravelData = [
   {
@@ -38,6 +45,24 @@ const TravelData = [
     placeImg1: Place3Image1,
     placeImg2: Place3Image2,
     placeImg3: Place3Image3,
+    placeDescription:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+  },
+  {
+    id: 4,
+    placeHeading: "Pamplona",
+    placeImg1: Place4Image1,
+    placeImg2: Place4Image2,
+    placeImg3: Place4Image3,
+    placeDescription:
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+  },
+  {
+    id: 5,
+    placeHeading: "Buenos Aires",
+    placeImg1: Place5Image1,
+    placeImg2: Place5Image2,
+    placeImg3: Place5Image3,
     placeDescription:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
   },
